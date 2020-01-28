@@ -1,3 +1,4 @@
+
 ## PigeonOJ
 HUSTOJ, a popular online judge system for OI. It's cross-platform and easy to install.
 
@@ -65,6 +66,6 @@ If you have other questions, please visit [Issues]() to ask us.
 
 ### 7.Postscript
 
-This project is a work that our team has taken pains to write. If there are bad points or bugs, I hope you can raise them, and we will sincerely accept and modify. In addition, I hope you can give us a star in the upper right corner, which will be our driving force. In addition, you can support us in the following ways:
+This project is a work that our team has taken pains to write. If there are bad points or bugs, I hope you can raise them or pull requests, and we will sincerely accept and modify. In addition, I hope you can give us a star in the upper right corner, which will be our driving force. In addition, you can support us in the following ways:
 - Recommend this work to other teachers and classmates
 - Citing the URL of the project in your thesis
