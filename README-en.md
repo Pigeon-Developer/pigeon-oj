@@ -29,10 +29,23 @@ PS: The GPL guarantees that you can legally ignore the above precautions but can
 
 ### 2.Developers
 
-- FrontEnd:
-- RearEnd:
-- Judge:
-- Docs:
+- zhblue：
+- 独角戏：
+- 风殇：
+- Gavin：
+- 兰州：
+- 你猜我在不在：
+- 一心向阳：
+- ♍Wey~：
+- ☆儚途灬旅仌═→：
+- 空：
+- 纪卓志：
+- 萌新：
+- 墨玉：
+- 麒麟：
+- 任宝硕：
+- yemaster：
+- 杨少雄：
 
 ### 3.Advantage
 
