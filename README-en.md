@@ -12,7 +12,7 @@ pigeon oj is HUSTOJ V2.0
 > 3. [Advantage](#3Advantage)
 > 4. [Update log](#4Update+log)
 > 5. [Installation](#5Installation)
-> 6. [Quesion & Answers](#6)
+> 6. [Quesion & Answers](#6qa)
 > 7. [Postscript](#7Postscript)
 
 ---
