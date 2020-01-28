@@ -4,7 +4,7 @@ HUSTOJ，一个流行的信息学在线评测系统。跨平台，易安装，�
 
 本项目是其2.0版本
 
-中文 | [ENGLISH](https://github.com/yemaster/pigeon-oj/blob/master/README-en.md)
+中文 | [ENGLISH](https://github.com/Pigeon-Developer/pigeon-oj/blob/master/README-en.md)
 
 ### 目录
 
