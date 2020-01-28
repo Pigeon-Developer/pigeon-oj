@@ -3,7 +3,7 @@ HUSTOJ, a popular online judge system for OI. It's cross-platform and easy to in
 
 pigeon oj is HUSTOJ V2.0
 
-[中文](Chineselink) | English
+[中文](https://github.com/yemaster/pigeon-oj/blob/master/README.md) | English
 
 ### 目录
 
