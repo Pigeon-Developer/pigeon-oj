@@ -13,42 +13,32 @@ pigeon oj is HUSTOJ V2.0
 > 3. [Advantage](#3Advantage)
 > 4. [Update log](#4Update+log)
 > 5. [Installation](#5Installation)
-> 6. [Quesion & Answers](#6qa)
+> 6. [Quesion & Answers](#6Q&A)
 > 7. [Postscript](#7Postscript)
 
 ---
 
 ### 1.LICENSE
 
-PigeonOJ is a open-source software which is protected by GPL license.(Only for some code written by ourselves.Other all used open-source software, please follow their licenses)
+PigeonOJ is a open-source software which is protected by [GPL](https://github.com/Pigeon-Developer/pigeon-oj/blob/master/LICENSE) license.(Only for some code written by ourselves.Other all used open-source software, please follow their licenses)
 
 NOTICE：If you want to do research, write thesis, develop system developed on this project, please indicate that your ideas is from this project
 
-Please cite the references [Design and implementation of open-source online judge system based on open cloud platform](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2012&filename=JSJA2012S3088&uid=WEEvREcwSlJHSldRa1FhdXNXYXJwcFhRL1Z1Q2lKUDFMNGd0TnJVVlh4bz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjgwNTExVDNxVHJXTTFGckNVUkwyZlllWm1GaURsV3IvQUx6N0JiN0c0SDlPdnJJOU5iSVI4ZVgxTHV4WVM3RGg=) if you want to write thesis.
+Please cite the references [Design and implementation of open-source online judge system based on open cloud platform](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFD2012&filename=JSJA2012S3088) if you want to write thesis.
 
 PS: The GPL guarantees that you can legally ignore the above precautions but cannot guarantee that you are not despised. Hehe!
 
 ### 2.Developers
 
-- zhblue：
-- 独角戏：
-- 风殇：
-- Gavin：
-- 兰州：
-- 你猜我在不在：
-- 一心向阳：
-- ♍Wey~：
-- ☆儚途灬旅仌═→：
-- 鸽子烹饪师：
-- 纪卓志：
-- 萌新：
-- 墨玉：
-- 麒麟：
-- 任宝硕：
-- yemaster：
-- 杨少雄：
+- **Frontend**： **[zhblue](https://github.com/zhblue/)** 、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
+- **Backend**： **[zhblue](https://github.com/zhblue/)** 、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
+- **JudgeServer**： **[zhblue](https://github.com/zhblue/)** 、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
 
 ### 3.Advantage
+
+- More beautiful interface
+- Front and back end separation, and modular deployment
+- Solved some problems of hustoj ~~（System resources occupied too low）~~ 
 
 ### 4.Update log
 
@@ -56,16 +46,19 @@ PS: The GPL guarantees that you can legally ignore the above precautions but can
 
 ### 5.Installation
 
-See installation documentation.TODO.
+~~See installation documentation.~~
+
+**TODO.**
 
 ### 6.Q&A
 
-TODO
+TODO.
 
-If you have other questions, please visit [Issues]() to ask us.
+If you have other questions, please visit [Issues](#) to ask us.
 
 ### 7.Postscript
 
-This project is a work that our team has taken pains to write. If there are bad points or bugs, I hope you can raise them or pull requests, and we will sincerely accept and modify. In addition, I hope you can give us a star in the upper right corner, which will be our driving force. In addition, you can support us in the following ways:
-- Recommend this work to other teachers and classmates
-- Citing the URL of the project in your thesis
+This project is a work that our team has taken pains to write. If there are bad points or bugs, I hope you can raise them or pull requests, and we will sincerely accept and modify. In addition, **I hope you can give us a star in the upper right corner**, which will be our driving force. In addition, you can support us in the following ways:
+- Recommend this work to other teachers and classmates.
+- Citing the URL of the project in your thesis.
+- Give [HUSTOJ](https://github.com/zhblue/hustoj) a star.
