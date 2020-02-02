@@ -22,7 +22,7 @@ services:
       - MYSQL_PASS=PigeonOnlineJudge
 
   judger:
-    image:
+    image: registry.cn-hangzhou.aliyuncs.com/pigeonoj/judger
     container_name: oj-judger
     restart: always
     read_only: true
@@ -45,7 +45,7 @@ services:
       # - DEBUG_MODE=1
 
   backend:
-    image: 
+    image: registry.cn-hangzhou.aliyuncs.com/pigeonoj/oj-backend
     container_name: oj-backend
     restart: always
     depends_on:
