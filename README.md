@@ -30,14 +30,14 @@ PigeonOJ是采用[GPL](https://github.com/Pigeon-Developer/pigeon-oj/blob/master
 
 ### 2.开发者
 
-- 前端：[zhblue](https://github.com/zhblue/)、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
-- 后端：[zhblue](https://github.com/zhblue/)、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
-- 判题机：[zhblue](https://github.com/zhblue/)、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
+- 前端： **[zhblue](https://github.com/zhblue/)** 、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
+- 后端： **[zhblue](https://github.com/zhblue/)** 、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
+- 判题机： **[zhblue](https://github.com/zhblue/)** 、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
 ### 3.本项目的优势
 
 - 界面更美观
 - 前后端分离，模块化部署
-- 解决了HUSTOJ一些不尽人意的地方 ~~（占用太低）~~ 
+- 解决了HUSTOJ一些不尽人意的地方 ~~（资源占用太低）~~ 
 
 ### 4.更新日志
 
