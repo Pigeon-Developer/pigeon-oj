@@ -59,6 +59,7 @@ services:
       - MYSQL_DATABASE=PigeonOnlineJudge
       - MYSQL_USER=PigeonOnlineJudge
       - MYSQL_PASSWORD=PigeonOnlineJudge
+      - NUMBERS_OF_JUDGER=1
       # - FORCE_HTTPS=1
       # - STATIC_CDN_HOST=cdn.pigeonoj.com
     ports: 
