@@ -1,0 +1,67 @@
+version: '3'
+services:
+
+  redis:
+    image: redis:4.0-alpine
+    container_name: oj-redis
+    restart: always
+    volumes:
+      - ./data/redis:/data
+
+  mysql:
+    image: mysql:5.7
+    container_name: oj-mysql
+    restart: always
+    volumes: 
+      - ./data/mysql:/var/lib/mysql
+    environment: 
+      - MYSQL_ROOT_PASSWORD=PigeonOnlineJudge
+      - MYSQL_ROOT_HOST=%
+      - MYSQL_DATABASE=PigeonOnlineJudge
+      - MYSQL_USER=PigeonOnlineJudge
+      - MYSQL_PASS=PigeonOnlineJudge
+
+  judger:
+    image:
+    container_name: oj-judger
+    restart: always
+    read_only: true
+    cap_drop:
+      - SETPCAP
+      - MKNOD
+      - NET_BIND_SERVICE
+      - SYS_CHROOT
+      - SETFCAP
+      - FSETID
+    tmpfs: /tmp
+    volumes: 
+      - ./data/backend/testdata:/judger/testdata
+      - ./data/judger/logs:/judger/logs
+      - ./data/judger/run:/judger/run
+    environment: 
+      - SERVICE_URL=http://judger:8080/
+      - BACKEND_URL=http://backend:8088/api/judger_heartbeat/
+      - JUDGER_TOKEN=PigeonOnlineJudge
+      # - DEBUG_MODE=1
+
+  backend:
+    image: 
+    container_name: oj-backend
+    restart: always
+    depends_on:
+      - redis
+      - mysql
+      - judger
+    volumes: 
+      - ./data/backend:/backend
+    environment: 
+      - JUDGER_TOKEN=PigeonOnlineJudge
+      - MYSQL_DATABASE=PigeonOnlineJudge
+      - MYSQL_USER=PigeonOnlineJudge
+      - MYSQL_PASSWORD=PigeonOnlineJudge
+      # - FORCE_HTTPS=1
+      # - STATIC_CDN_HOST=cdn.pigeonoj.com
+    ports: 
+      - "80:8088"
+      - "443:1443"
+
