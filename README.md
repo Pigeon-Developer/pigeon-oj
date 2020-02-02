@@ -37,7 +37,7 @@ PigeonOJ是采用[GPL](https://github.com/Pigeon-Developer/pigeon-oj/blob/master
 
 - 界面更美观
 - 前后端分离，模块化部署
-- 解决了HUSTOJ一些不尽人意的地方~~（占用太低）~~
+- 解决了HUSTOJ一些不尽人意的地方 ~~（占用太低）~~ 
 
 ### 4.更新日志
 
