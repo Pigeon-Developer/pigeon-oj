@@ -15,6 +15,7 @@ HUSTOJ，一个流行的信息学在线评测系统。跨平台，易安装，�
 > 5. [安装](#5安装)
 > 6. [常见问答](#6常见问答)
 > 7. [后记](#7后记)
+> 8. [各模块源码仓库](#8各模块源码仓库)
 
 ---
 
@@ -35,10 +36,10 @@ PigeonOJ是采用[GPL](https://github.com/Pigeon-Developer/pigeon-oj/blob/master
 - 判题机： **[zhblue](https://github.com/zhblue/)** 、独角戏、风殇、[Gavin](https://github.com/gavincc)、兰州、你猜我在不在、一心向阳、♍Wey~、☆儚途灬旅仌═→、鸽子烹饪师、纪卓志、萌新、墨玉、麒麟、[任宝硕](https://github.com/RenBaoshuo)、[yemaster](https://github.com/yemaster)、杨少雄。
 ### 3.本项目的优势
 
-- 界面更美观
-- 前后端分离，模块化部署
-- GUI、脚本部署两种选择
-- 解决了HUSTOJ一些不尽人意的地方 ~~（资源占用太低）~~ 
++ 界面更美观
++ 前后端分离，模块化部署
++ GUI、脚本部署两种选择
++ 解决了HUSTOJ一些不尽人意的地方 ~~（资源占用太低）~~ 
 
 ### 4.更新日志
 
@@ -46,7 +47,7 @@ PigeonOJ是采用[GPL](https://github.com/Pigeon-Developer/pigeon-oj/blob/master
 
 ### 5.安装
 
-~~参见安装文档~~
+~~参见[安装文档](https://github.com/Pigeon-Developer/PigeonOnlineJudgeDeploy)~~
 
 暂时还不能安装...
 
@@ -54,12 +55,21 @@ PigeonOJ是采用[GPL](https://github.com/Pigeon-Developer/pigeon-oj/blob/master
 
 **TODO**
 
-如果您有其他问题，请访问[Issues](#)向我们提问
+如果您有其他问题，请访问[Issues](https://github.com/Pigeon-Developer/pigeon-oj/issues)向我们提问
 
 ### 7.后记
 
 这个项目是我们团队辛苦编写的一个作品。 如果有不好的地方或bug，希望您提出来或者Pull Request，我们将真诚接受和修改。 **另外，希望您能在右上角给我们一个star**，这将成为我们的动力。 您还可以通过以下方式为我们提供支持：
-- 向其他老师和同学推荐此项目
-- 在论文中引用本项目的网址
-- 顺便给[HUSTOJ](https://github.com/zhblue/hustoj)一个Star
-- 资瓷一下开发者
++ 向其他老师和同学推荐此项目
++ 在论文中引用本项目的网址
++ 顺便给[HUSTOJ](https://github.com/zhblue/hustoj)一个Star
++ 如果你想参与开发，请加QQ群：1036063832
++ 资瓷一下开发者
+
+### 8.各模块源码仓库
+
++ [前端](https://github.com/Pigeon-Developer/pigeon-fronted)
++ [后台管理](https://github.com/Pigeon-Developer/pigeon-admin)
++ [后端](https://github.com/Pigeon-Developer/pigeon-backend)
++ [部署](https://github.com/Pigeon-Developer/PigeonOnlineJudgeDeploy)
++ [LangMask](https://github.com/Pigeon-Developer/hustoj-langmask)
